@@ -1,6 +1,6 @@
 # code-challenge6
 
-Code challenge no.5 - Create a logic cursor
+Code challenge no.6 - Create a logic cursor
 
 You find all the information about the challenge in Notion, Github is only used to make code reviews on each other.
 
